@@ -1,10 +1,7 @@
-# CS162 Shell project
+# Shell project
 
-#### This is a shell written in C99 for CS162 HW1.
+#### This is a shell written in C99 for CS162.
 
-Master branch built for OS X, Linux branch for...linux.
-
-**[Skeleton code here.](https://github.com/Berkeley-CS162/ta)**
-
+Master branch built on OS X, Linux branch on linux.
 
 ---
